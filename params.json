@@ -1,0 +1,6 @@
+{
+  "name": "项目名称",
+  "tagline": " 项目描述",
+  "body": "#  个人 主页设置\r\n\r\n   个性化主页设置：仓库名必须为：xiangziyun.github.io 只能创建静态页面。\r\n          或点击仓库名，创建index.html,点击settings --->点击 Launch automatic page generator 编辑个性主页。 \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
